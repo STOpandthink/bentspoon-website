@@ -235,7 +235,7 @@ div.clearing {
 }
 #social ul {
   list-style: none;
-  margin: 0;
+  margin-left: 19px;
   padding: 0;
 }
 #social ul li {
@@ -256,4 +256,5 @@ div.clearing {
 }
 #links ul {
   list-style: none;
+  margin-left: 19px;
 }

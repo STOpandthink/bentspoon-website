@@ -263,6 +263,7 @@ div.clearing {
 }
 #buy ul {
   list-style: none;
+  margin-left: 19px;
 }
 #social {
   background: url(/images/social.png) no-repeat top left;
@@ -275,7 +276,7 @@ div.clearing {
 }
 #social ul {
   list-style: none;
-  margin: 0;
+  margin-left: 19px;
   padding: 0;
   padding-bottom: 25px;
 }
